@@ -21,7 +21,7 @@
 
 | Plateforme | Fichier | |
 |---|---|---|
-| **macOS** (Intel · Apple Silicon) | [vaultd-macos-universal.zip](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases/latest/download/vaultd-macos-universal.zip) | signé Developer ID et notarisé par Apple |
+| **macOS** (Intel · Apple Silicon) | [vaultd-macos-universal.dmg](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases/latest/download/vaultd-macos-universal.dmg) | signé Developer ID, notarisé et agrafé par Apple — ouvrez-le et glissez vaultd sur bin |
 | **Windows** x64 | [vaultd-windows-amd64.zip](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases/latest/download/vaultd-windows-amd64.zip) | décompressez et ajoutez le dossier au PATH |
 | **Linux** x64 | [vaultd-linux-amd64.tar.gz](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases/latest/download/vaultd-linux-amd64.tar.gz) | extrayez dans /usr/local/bin |
 | **Linux** ARM64 | [vaultd-linux-arm64.tar.gz](https://github.com/mavksoft/dynamicdnspro-vaultd-releases/releases/latest/download/vaultd-linux-arm64.tar.gz) | extrayez dans /usr/local/bin |
